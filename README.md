@@ -2,11 +2,18 @@
 
 
 <div align="center">
-    <em>About: 👇🏻</em>
+    <em>Sobre: 👇🏻</em>
 </div>
 <p>
 	<em>
-		Lucas Ruan Andrade Almeida, nasceu em Salvador, Bahia. É estudante Ciência da Computação na Universidade Salvador (UNIFACS)	
+		Lucas Ruan Andrade Almeida, nasceu em Salvador, Bahia. É estudante Ciência da Computação na Universidade Salvador (UNIFACS). Está aprendendo programação e ama programar. Deseja, um dia, se tornar um desenvolvedor. Tem apreço voltado para área de Desenvolvimento Web e de Softwares. Além disso, é uma pessoa extrovertida, alegre, carismática, que busca sempre aprender e se desenvolver naquilo que faz!! Esse sou eu!!!</em>
+</p>
+
+<div align="center">
+    <em>About: 👇🏻</em>
+</div>
+<p>
+	<em>Lucas Ruan Andrade Almeida was born in Salvador, Bahia. He is a Computer Science student at the University of Salvador (UNIFACS). He's learning programming and loves programming. He wants to one day become a developer. He has an appreciation for the area of Web Development and Software. In addition, he is an outgoing, cheerful, charismatic person, who always seeks to learn and develop in what he does!! That's me!!</em>
 </p>
 
 ##
@@ -24,7 +31,7 @@
  
  <br>
  
-  ### Aqui estão minhas redes e email para contato!
+  ### Contatos/Contacts
  
 <div> 
   <a href="https://www.instagram.com/lucas_almeida3720/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
